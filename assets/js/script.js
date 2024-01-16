@@ -9,8 +9,8 @@ var requestNinja = `https://api.api-ninjas.com/v1/${chosenPetType}?name=${petBre
 
 // random dog and cat image carousel
 
-var theCatAPIKey = 'live_zqFTSSujc6nQSLlan4OKwI0Jzmsczq7iedMNANsZMjYf6yKUT8ee0A13DyhrzRHv'
-var theDogAPIKey = 'live_T2AySINQ9j3gOKvi0bkfD47zo8VSZAyo8bkluvwT1hCxQZig4DiIC951YSat8qEm'
+var theCatAPIKey = 'live_orCKSeyeSHx3pI6d1GyrTN8P3jMZvNojmhHPqGx2xiIw6LQXhmZI3GCh8rO850Wn'
+var theDogAPIKey = 'live_F2UCWb0A6ZksYrWEMJ99kCr4Fd49HlPUODkBjp6MLGC8Pg1YNtjx8kf49UgvuTvY'
 var catDogDropdown = document.getElementById('catDogDropdown');
 var breedDropdown = document.getElementById('breedDropdown');
 var timeCommitmentDropdown = document.getElementById('timeCommitmentDropdown');
